@@ -52,11 +52,3 @@ body {
   border: 4px ridge #ff00ff;
 
 }
-
-body {
-  cursor: url("assets/images/sukjun-cursor-32x32.png") 0 0, auto;
-}
-
-{
-  cursor: url("assets/images/sukjun-cursor-32x32.png") 0 0, auto !important;
-}
