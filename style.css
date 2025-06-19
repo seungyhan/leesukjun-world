@@ -53,6 +53,6 @@ body {
 
 }
 
-{
-  cursor: url("assets/images/sukjun-cursor-32x32.png") 0 0, auto !important;
+body {
+  cursor: url("assets/images/sukjun-cursor-32x32.png") 0 0, auto;
 }
